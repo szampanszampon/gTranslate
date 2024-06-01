@@ -1,6 +1,6 @@
 # gTranslate
 
-Based on Google Translate API, currently broken and not usable, please wait for a stable realese. 
+Based on Google Translate API
 
 # Compilation tutorial
 
