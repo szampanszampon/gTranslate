@@ -10,3 +10,4 @@ Based on Google Translate API
 4. Click on the "Compile to executable..." button and compile the main.lua file using these settings:
 - Windows subsystem: Windows desktop
 - Runtime library: Static
+5. Make sure to copy over the .ico files to the same folder where the executable is
