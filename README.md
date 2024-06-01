@@ -10,4 +10,3 @@ Based on Google Translate API
 4. Click on the "Compile to executable..." button and compile the main.lua file using these settings:
 - Windows subsystem: Windows desktop
 - Runtime library: Static
-5. Make sure you copy over lua54.dll to the same folder where the compiled executable is located at
